@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "2b21c1e0-436f-47b8-b760-84a2362bfdcd",
+            "collectionId": "Malayalam",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Myth/2b21c1e0-436f-47b8-b760-84a2362bfdcd/2b21c1e0-436f-47b8-b760-84a2362bfdcd_ml_Female.mp4"
+        },
+        {
+            "id": "cfa05ad3-7a2e-49d2-85ee-f1980c04e265",
+            "collectionId": "Malayalam",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Myth/cfa05ad3-7a2e-49d2-85ee-f1980c04e265/cfa05ad3-7a2e-49d2-85ee-f1980c04e265_ml_Female.mp4"
+        },
+        {
+            "id": "9d4f76f3-cd53-4060-921b-494c249146c3",
+            "collectionId": "Malayalam",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Myth/9d4f76f3-cd53-4060-921b-494c249146c3/9d4f76f3-cd53-4060-921b-494c249146c3_ml_Male.mp4"
+        },
+        {
+            "id": "429d911d-d6b9-4796-ada8-36bc69228d7c",
+            "collectionId": "Malayalam",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Myth/429d911d-d6b9-4796-ada8-36bc69228d7c/429d911d-d6b9-4796-ada8-36bc69228d7c_ml_Male.mp4"
+        }
+    ]
+}
